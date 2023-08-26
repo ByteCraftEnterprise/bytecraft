@@ -22,7 +22,7 @@ const Navbar = () => {
                             <a className="nav-link" href="/bytecraft-website">About Us</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/bytecraft-website/programs">Programs</a>
+                            <a className="nav-link" href="/programs">Programs</a>
                         </li>
                     </ul>
                 </div>
