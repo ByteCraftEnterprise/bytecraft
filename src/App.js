@@ -1,12 +1,19 @@
-import './App.css';
+import Navbar from './components/Navbar';
+import './index.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+      </Routes>
+    </BrowserRouter>
 
-      </header>
-    </div>
   );
 }
 
