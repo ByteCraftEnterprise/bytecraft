@@ -1,0 +1,28 @@
+.main-card .card {
+  background-color: #1a1b1c;
+  color: white;
+  width: 473px;
+  height: 700px;
+  padding: 2% 7%;
+  justify-content: center;
+}
+
+.card p {
+  background-color: #1a1b1c;
+  margin: 0;
+  text-align: left;
+}
+
+.card h4 {
+  font-weight: bold;
+  text-align: left;
+  font-family: "Inconsolata", monospace;
+  font-size: 2.3rem;
+  text-transform: none;
+}
+
+.logo {
+  height: 100px;
+  align-self: center;
+  margin-bottom: 30px;
+}
