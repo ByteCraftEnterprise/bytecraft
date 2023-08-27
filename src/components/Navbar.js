@@ -1,4 +1,8 @@
 import "../styles/navbar.css"
+import instructions from '../documents/instructions.pdf';
+import roadmap from '../documents/Roadmap.pdf';
+
+
 
 const Navbar = () => {
     return (
@@ -23,6 +27,12 @@ const Navbar = () => {
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="/programs">Programs</a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href={instructions} target="_blank">Instructions</a>
+                        </li>
+                        <li className="nav-item">
+                            <a className="nav-link" href={roadmap} target="_blank">Roadmap</a>
                         </li>
                     </ul>
                 </div>
