@@ -1,7 +1,6 @@
 import "../styles/footer.css"
-// import '@fortawesome/fontawesome-free/css/all.min.css';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import instructions from '../documents/instructions.pdf';
+import roadmap from '../documents/Roadmap.pdf';
 
 const Footer = () => {
     return (
@@ -18,14 +17,17 @@ const Footer = () => {
                 <p className="bold">Navigation</p>
                 <p><a href="/bytecraft">About Us</a></p>
                 <p><a href="/programs">Programs</a></p>
+                <p><a href={instructions} target="_blank">Instructions</a></p>
+                <p><a href={roadmap} target="_blank">Roadmap</a></p>
+
             </div>
             <div className="hide flex-column column align-self-start column-3">
                 <p className="bold">Programs</p>
-                <p><a href="https://www.coursera.org/learn/python">Python</a></p>
-                <p><a href="https://www.coursera.org/learn/r-programming">R Programming</a></p>
-                <p><a href="https://www.coursera.org/learn/web-development">Web Development</a></p>
-                <p><a href="https://coursera.org/share/8e09182388ebdc420342bbf9e5f47402">Mobile Development</a></p>
-                <p><a href="https://www.coursera.org/learn/data-science-ethics">Data Science Ethics</a></p>
+                <p><a href="https://www.coursera.org/learn/python" target="_blank">Python</a></p>
+                <p><a href="https://www.coursera.org/learn/r-programming" target="_blank">R Programming</a></p>
+                <p><a href="https://www.coursera.org/learn/web-development" target="_blank">Web Development</a></p>
+                <p><a href="https://coursera.org/share/8e09182388ebdc420342bbf9e5f47402" target="_blank">Mobile Development</a></p>
+                <p><a href="https://www.coursera.org/learn/data-science-ethics" target="_blank">Data Science Ethics</a></p>
             </div>
         </div >
     )
