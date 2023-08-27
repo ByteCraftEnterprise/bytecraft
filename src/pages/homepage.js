@@ -27,9 +27,9 @@ function Homepage() {
                     Welcome to <span style={gradient}>ByteCraft</span>
                 </h1>
                 <p>An online computer science platform created for you</p>
-                <button className="button">Learn more</button>
+                <button className="button" href="#mainsection">Learn more</button>
             </header>
-            <div className='main'>
+            <div className='main' id="mainsection">
                 <div className='mission'>
                     <h3>Our Mission</h3>
                     <p>Our mission is to provide accessible and high-quality online computer science education to underserved students in grades 9-12, <span className='highlight'> empowering them with the skills, knowledge, and opportunities</span> to thrive in the digital age. We are committed to bridging the educational and opportunity gaps that exist among underserved communities, fostering diversity and inclusion in STEM fields.</p>
