@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bytecraft-website/static/css/main.87d7180f.css",
+    "main.css": "/bytecraft-website/static/css/main.0c9e1d0f.css",
     "main.js": "/bytecraft-website/static/js/main.f8b3917a.js",
     "static/js/787.5980b3ee.chunk.js": "/bytecraft-website/static/js/787.5980b3ee.chunk.js",
     "static/media/instructions.pdf": "/bytecraft-website/static/media/instructions.b0c748182fb75fbae60a.pdf",
@@ -14,12 +14,12 @@
     "static/media/fa-v4compatibility.ttf": "/bytecraft-website/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
     "static/media/fa-v4compatibility.woff2": "/bytecraft-website/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
     "index.html": "/bytecraft-website/index.html",
-    "main.87d7180f.css.map": "/bytecraft-website/static/css/main.87d7180f.css.map",
+    "main.0c9e1d0f.css.map": "/bytecraft-website/static/css/main.0c9e1d0f.css.map",
     "main.f8b3917a.js.map": "/bytecraft-website/static/js/main.f8b3917a.js.map",
     "787.5980b3ee.chunk.js.map": "/bytecraft-website/static/js/787.5980b3ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87d7180f.css",
+    "static/css/main.0c9e1d0f.css",
     "static/js/main.f8b3917a.js"
   ]
 }
