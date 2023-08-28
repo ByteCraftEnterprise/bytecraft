@@ -15,7 +15,7 @@ const Footer = () => {
             </div>
             <div className="d-none d-md-block hide flex-column column align-self-start column-2">
                 <p className="bold">Navigation</p>
-                <p><a href="/">About Us</a></p>
+                <p><a href="/bytecraft-website">About Us</a></p>
                 <p><a href="/programs">Programs</a></p>
                 <p><a href={instructions} target="_blank">Instructions</a></p>
                 <p><a href={roadmap} target="_blank">Roadmap</a></p>
