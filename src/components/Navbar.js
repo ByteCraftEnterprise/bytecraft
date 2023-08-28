@@ -23,7 +23,7 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item active">
-                            <a className="nav-link" href="/bytecraft-website">About Us</a>
+                            <a className="nav-link" href="/">About Us</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="/programs">Programs</a>
