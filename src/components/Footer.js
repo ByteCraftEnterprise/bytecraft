@@ -13,7 +13,7 @@ const Footer = () => {
                     <p>bytecraftersinfo@gmail.com</p>
                 </div>
             </div>
-            <div className="hide flex-column column align-self-start column-2">
+            <div className="d-none d-md-block hide flex-column column align-self-start column-2">
                 <p className="bold">Navigation</p>
                 <p><a href="/bytecraft">About Us</a></p>
                 <p><a href="/programs">Programs</a></p>
@@ -21,7 +21,7 @@ const Footer = () => {
                 <p><a href={roadmap} target="_blank">Roadmap</a></p>
 
             </div>
-            <div className="hide flex-column column align-self-start column-3">
+            <div className="d-none d-md-block hide flex-column column align-self-start column-3">
                 <p className="bold">Programs</p>
                 <p><a href="https://www.coursera.org/learn/python" target="_blank">Python</a></p>
                 <p><a href="https://www.coursera.org/learn/r-programming" target="_blank">R Programming</a></p>
