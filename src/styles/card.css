@@ -26,3 +26,10 @@
   align-self: center;
   margin-bottom: 30px;
 }
+
+@media (max-width: 900px) {
+  .main-card .card {
+    width: 480px;
+    height: 592px;
+  }
+}

@@ -107,6 +107,9 @@ h4 {
 }
 
 @media (max-width: 900px) {
+  html {
+    font-size: 54%;
+  }
   .cards-list {
     display: flex;
     flex-wrap: nowrap;
