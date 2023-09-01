@@ -12,11 +12,11 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <Navbar />
       <Routes>
         <Route path="*" element={<Homepage />} />
-        <Route path="/programs" element={<Programs />} />
+        <Route path="/bytecraft-website/programs" element={<Programs />} />
       </Routes>
       <Footer />
     </BrowserRouter>
