@@ -12,14 +12,14 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter basename="/bytecraft-website">
+    <div>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Homepage />} />
+        <Route exact path="/" element={<Homepage />} />
         <Route path="/programs" element={<Programs />} />
       </Routes>
       <Footer />
-    </BrowserRouter>
+    </div>
   );
 }
 
