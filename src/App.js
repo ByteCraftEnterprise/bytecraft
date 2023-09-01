@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter basename="/bytecraft-website">
       <Navbar />
       <Routes>
-        <Route path="*" element={<Homepage />} />
+        <Route path="/" element={<Homepage />} />
         <Route path="/programs" element={<Programs />} />
       </Routes>
       <Footer />
