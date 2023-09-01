@@ -16,11 +16,10 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="*" element={<Homepage />} />
-        <Route path="/bytecraft-website/programs" element={<Programs />} />
+        <Route path="/programs" element={<Programs />} />
       </Routes>
       <Footer />
     </BrowserRouter>
-
   );
 }
 
