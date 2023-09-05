@@ -6,7 +6,7 @@ import roadmap from '../documents/Roadmap.pdf';
 
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg fixed-top">
+        <nav className="navbar navbar-expand-lg fixed-top ">
             <div className="container">
                 <a className="navbar-brand" href="/">ByteCraft</a>
                 <button
