@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.58135e5d.css",
-    "main.js": "/static/js/main.8ef4ad95.js",
-    "static/js/787.5980b3ee.chunk.js": "/static/js/787.5980b3ee.chunk.js",
-    "static/media/instructions.pdf": "/static/media/instructions.b0c748182fb75fbae60a.pdf",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/Roadmap.pdf": "/static/media/Roadmap.01718052a2c55e108cd6.pdf",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/index.html",
-    "main.58135e5d.css.map": "/static/css/main.58135e5d.css.map",
-    "main.8ef4ad95.js.map": "/static/js/main.8ef4ad95.js.map",
-    "787.5980b3ee.chunk.js.map": "/static/js/787.5980b3ee.chunk.js.map"
+    "main.css": "/bytecraft-website/static/css/main.4693d880.css",
+    "main.js": "/bytecraft-website/static/js/main.3a0bf123.js",
+    "static/js/787.5980b3ee.chunk.js": "/bytecraft-website/static/js/787.5980b3ee.chunk.js",
+    "static/media/instructions.pdf": "/bytecraft-website/static/media/instructions.b0c748182fb75fbae60a.pdf",
+    "static/media/fa-solid-900.ttf": "/bytecraft-website/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/bytecraft-website/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/bytecraft-website/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/bytecraft-website/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/Roadmap.pdf": "/bytecraft-website/static/media/Roadmap.01718052a2c55e108cd6.pdf",
+    "static/media/fa-regular-400.ttf": "/bytecraft-website/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/bytecraft-website/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/bytecraft-website/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/bytecraft-website/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/bytecraft-website/index.html",
+    "main.4693d880.css.map": "/bytecraft-website/static/css/main.4693d880.css.map",
+    "main.3a0bf123.js.map": "/bytecraft-website/static/js/main.3a0bf123.js.map",
+    "787.5980b3ee.chunk.js.map": "/bytecraft-website/static/js/787.5980b3ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58135e5d.css",
-    "static/js/main.8ef4ad95.js"
+    "static/css/main.4693d880.css",
+    "static/js/main.3a0bf123.js"
   ]
 }
